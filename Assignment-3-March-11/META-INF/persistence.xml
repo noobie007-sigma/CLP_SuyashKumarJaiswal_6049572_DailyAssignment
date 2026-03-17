@@ -23,7 +23,7 @@
                       value="postgres"/>
 
             <property name="jakarta.persistence.jdbc.password"
-                      value="suyash"/>
+                      value="password"/>
 
             <!-- Hibernate Configuration -->
             <property name="hibernate.hbm2ddl.auto"
